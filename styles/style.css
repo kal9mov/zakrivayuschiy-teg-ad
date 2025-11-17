@@ -274,7 +274,7 @@
 .save {
   display: flex;
   justify-content: center;
-  margin-top: 52px;  
+  margin-top: 52px;
   margin-bottom: 103px;
   z-index: 1;
 }
@@ -282,7 +282,7 @@
 .save__button {
   display: flex;
   align-items: center;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   gap: 8px;
   padding: 15px 21px;
   justify-content: center;
@@ -319,7 +319,7 @@
 }
 
 .save-dialog__content {
-  display: grid; 
+  display: grid;
   grid-template-columns: auto 1fr;
   align-items: center;
   gap: 20px;
