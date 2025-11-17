@@ -1,7 +1,7 @@
 :root {
   --main-font: 'Inter';
   --accent-font: 'PressStart2P';
-  font-variation-settings: 'wght' var(--main-font-weight);
+  --font-variation-settings: 'wght' var(--main-font-weight);
 
   --main-font-weight: 400;
   --title-font-weight: 700;
