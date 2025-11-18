@@ -15,6 +15,7 @@
   min-block-size: 100dvb;
   font-family: var(--main-font), sans-serif;
   font-weight: var(--main-font-weight);
+  font-variation-settings: 'wght' var(--font-variation-settings);
   color: var(--text-color);
   min-height: 100vh;
   display: flex;
@@ -98,6 +99,7 @@
   font-family: var(--main-font);
   font-size: var(--main-font-size);
   font-weight: var(--title-font-weight);
+  font-variation-settings: 'wght' var(--title-font-weight)
 }
 
 .card__image-container {
